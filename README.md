@@ -1,3 +1,4 @@
 # Compliance Lab
 
-<p>This project was done as part of the Google Cybersecurity Certificate program. This activity was part of the second module titled <q>Play It Safe: Manage Security Risks - Security Frameworks and Controls</q>.</p>
+<p>This project is part of the Google Cybersecurity Certificate program, specifically the module *"Play It Safe: Manage Security Risks – Security Frameworks and Controls."</q>.</p>
+<p>It simulates an internal IT audit for a fictional company, <b>Botium Toys</b>, including IT asset assessment, risk analysis, and compliance checks based on <b>NIST CSF, PCI DSS, GDPR, and SOC frameworks</b>. The project demonstrates skills in risk assessment, internal controls documentation, and actionable remediation recommendations.</p>
